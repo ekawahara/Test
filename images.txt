@@ -1,0 +1,11 @@
+The following images have a file extension that doesn't match its actual format:
+./Basketball copy 2.jpg
+./Basketball.jpg
+The following images have a dramatic increase in size and may want to be reviewed:
+Basketball copy 3.png
+The file is now 4038 bytes
+But previously, it was 157426 bytes
+The following images have a dramatic increase in size and may want to be reviewed:
+Basketball copy.png
+The file is now 535722 bytes
+But previously, it was 157426 bytes
